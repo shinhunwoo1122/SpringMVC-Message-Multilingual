@@ -10,4 +10,9 @@ class ItemServiceApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	void notFoundMessageCode(){
+
+	}
+
 }
